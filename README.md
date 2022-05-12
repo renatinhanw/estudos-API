@@ -7,7 +7,10 @@
 * pip install flask-pydantic-spec
 * pip install tinydb
 
-### Swagger 
+### Subir o server 
+* > python app.py
+ 
+### Acessar swagger 
  * http://localhost:5000/apidoc/swagger
 
  ### Database
